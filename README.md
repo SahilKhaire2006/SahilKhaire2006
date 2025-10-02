@@ -64,8 +64,6 @@ I'm a passionate Software Engineering student at **Vishwakarma Institute of Tech
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SahilKhaire2006&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&row=2&column=4)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahilKhaire2006&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SahilKhaire2006&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SahilKhaire2006&theme=github_dark)
 
 </div>
 
